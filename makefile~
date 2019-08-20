@@ -1,6 +1,0 @@
-p1c:
-	gcc -o p1c 1_Euler.c
-	./p1c
-p1cpp:
-	gcc -o p1cpp 1_Euler.cpp
-	./p1cpp
